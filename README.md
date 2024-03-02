@@ -7,8 +7,8 @@
 💞️ I’m looking to collaborate on projects related to AI, machine learning, blockchain, and software development.
 
 📫 How to reach me:
-- LinkedIn: [ghanshyamgcs22](https://www.linkedin.com/in/ghanshyamgcs22/)
-- Gmail: [guptaghanshyam2005@gmail.com](mailto:guptaghanshyam2005@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/ghanshyamgcs22/)
+-  [Gmail](mailto:guptaghanshyam2005@gmail.com)
 
 ---
 
