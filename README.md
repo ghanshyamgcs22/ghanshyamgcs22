@@ -1,6 +1,6 @@
 👋 Hi, I’m Ghanshyam Gupta
 
-👀 I’m interested in AI, machine learning, blockchain, and software development.
+👀 I’m interested in AI, machine learning, Blockchain, and software development.
 
 🌱 I’m currently learning Solidity for blockchain development and enhancing my skills in AI and machine learning.
 
